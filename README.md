@@ -6,7 +6,7 @@
 
 #### Install
 ```
-$ pip install git+https://github.com/Shopyangu-engineering/python_sms_counter.git
+$ pip install git+https://github.com/Shopyangu-engineering/python_sms_counter.git#egg=python_sms_counter
 ```
 
 #### Support

@@ -1,7 +1,3 @@
-"""
-See:
-https://packaging.python.org/en/latest/distributing.html
-"""
 import os
 from setuptools import setup
 

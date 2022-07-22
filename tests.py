@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from sms_counter import SMSCounter
+from python_sms_counter import SMSCounter
 
 
 class SMSCounterTestCase(TestCase):
